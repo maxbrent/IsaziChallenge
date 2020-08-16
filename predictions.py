@@ -197,3 +197,7 @@ def main():
 
     prediction_set = predict_transform(data_prediction)  # Create an argument parser to parse prediction dataframe file through command line
     npyz = (modell.predict(prediction_set) * std_data) + mean_data
+
+    print(npyz[0, 0, :])
+    print(npyz[0, 1, :])
+    print(npyz[0, 2, :])
