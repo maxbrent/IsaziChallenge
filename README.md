@@ -6,6 +6,8 @@
 
 1. Open the following link in a new tab: [Isazi AI Challenge](https://colab.research.google.com/github/maxbrent/IsaziChallenge/blob/master/IsaziAIChallenge_Case_Study_1.ipynb)
   - The following notebook shows my model development, data analysis and training with a **full indepth explanation**
+  - You do not have to run this notebook, this is just to show my entire model development process
+  - Since a call to a single script needs to be run end-to-end, this is done in the bash script described below
 
 2. Next click on **"Sign IN"** on the top right corner and sign in with your standard google user credentials, or you can use the credentials that I have provided: 
   - **Email**: terminatorxxxcool@gmail.com
