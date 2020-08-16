@@ -193,7 +193,7 @@ def main():
                         help="Pass file path to csv file to predict")
     args = parser.parse_args()
 
-    data_prediction = data = pd.read_csv(args.filepath, index_col=0)
+    data_prediction = pd.read_csv(args.filepath, index_col=0)
 
     prediction_set = predict_transform(data_prediction)  # Create an argument parser to parse prediction dataframe file through command line
     npyz = (modell.predict(prediction_set) * std_data) + mean_data
