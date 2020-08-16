@@ -24,7 +24,7 @@
 
 8. All of the data used in the notebook is provided in this github repository in the **data** folder.
 
-9. The trained model is stored in the **models** folder along with its checkpoints
+9. The trained model is stored in the **models** folder along with its checkpoints, **reports** folder stores the generated reports
   
 10. Thanks
 
