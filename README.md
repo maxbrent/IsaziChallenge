@@ -30,4 +30,3 @@
   
 10. Thanks
 
-## NB: I have completed the challenge except for the report generating part due to my lack of time, however I have generated a pdf from a markdown file to show that I am capable of generating the reports 
